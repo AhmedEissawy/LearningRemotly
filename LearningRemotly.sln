@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningRemotly", "LearningRemotly\LearningRemotly.csproj", "{AB3EA063-A6EF-4714-BC12-E41A1C9D3A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3EA063-A6EF-4714-BC12-E41A1C9D3A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3EA063-A6EF-4714-BC12-E41A1C9D3A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3EA063-A6EF-4714-BC12-E41A1C9D3A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3EA063-A6EF-4714-BC12-E41A1C9D3A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A36F6E0-4F5D-4229-94B0-8DE8861E39F0}
+	EndGlobalSection
+EndGlobal
